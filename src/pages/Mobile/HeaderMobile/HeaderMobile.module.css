@@ -1,0 +1,25 @@
+
+.header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 70px;
+}
+
+.img{
+    width: 97px;
+    height: 43px;
+}
+.btnBurger{
+    color: #fff;
+    background-color: transparent;
+    width: 25px;
+    height: 25px;
+    border: 1px solid transparent;
+    padding: 0;
+}
+.list{
+    list-style: none;
+    font-size: 14px;
+
+}

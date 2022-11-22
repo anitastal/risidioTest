@@ -1,0 +1,158 @@
+.back {
+    background-image: url(/src//img/cosmos.jpeg);
+    height: 207px;
+    background-size: cover;
+}
+
+.parent {
+    position: relative;
+}
+
+.title {
+    margin: 0;
+    padding: 0;
+    padding-top: 26px;
+    text-align: center;
+    font-family: Montserrat;
+    font-weight: 300;
+    font-size: 40px;
+    min-width: 330px;
+    min-height: 49px;
+    color: #F9F9F9;
+    text-transform: capitalize;
+}
+
+.nameImg {
+    position: absolute;
+    top: 130px;
+    left: 33%;
+
+    width: 149px;
+    height: 149px;
+
+    border: none;
+    border-radius: 50%;
+}
+
+.name {
+    color: black;
+
+    margin: 0;
+    padding: 0;
+    margin-top: 102px;
+
+    text-align: center;
+    font-family: Montserrat;
+    font-weight: 500;
+    font-size: 18px;
+    
+}
+
+.text {
+    color: black;
+
+    min-height: 58px;
+    width: 334px;
+    margin: auto;
+    margin-top: 18px;
+    margin-bottom: 13px;
+    padding: 0;
+    
+    text-align: center;
+    font-family: Montserrat;
+    font-weight: normal;
+    font-size: 14px;
+    
+
+}
+
+.hidenText {
+    color: black;
+
+    min-height: 58px;
+    width: 334px;
+    margin: auto;
+    padding: 0;
+    
+    text-align: center;
+    font-family: Montserrat;
+    font-weight: normal;
+    font-size: 14px;
+    
+    
+    margin-bottom: 34px;
+
+}
+
+.btn {
+    color: #50B1B5;
+    background-color: transparent;
+
+    width: 402px;
+    margin: auto;
+    margin-bottom: 28px;
+    
+    text-align: center;    
+    font-family: Montserrat;
+    font-weight: 600;
+    font-size: 14px;
+
+    border: 1px solid transparent;
+}
+
+.wrap {
+    text-align: center;
+}
+
+.wrapHidden {
+    text-align: center;
+}
+
+.list {
+    list-style: none;
+
+    background-color: #F9F9F9;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+
+    width: 252px;
+    margin-bottom: 72px;
+    margin: auto;
+    margin-top: 11px;
+    gap: 30px;
+    padding: 0;
+
+    text-align: center;
+    
+    border-radius: 25px;
+}
+
+
+.listItem {
+    margin-top: 18px;
+
+    font-family: Montserrat;
+    font-weight: normal;
+    font-size: 16px;
+}
+.listText:after{
+    content: '';
+    position: absolute;
+    bottom: 1px;
+    background-color: black;
+
+}
+
+
+.listText {
+    margin: 0;
+    margin-top: 19px;
+    margin-bottom: 18px;
+
+    font-family: Montserrat;
+    font-weight: 600;
+    font-size: 16px;
+}

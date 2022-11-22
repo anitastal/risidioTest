@@ -1,0 +1,11 @@
+{
+  "name": "NFT Asset Name #5",
+  "description": "NFT Asset Detailed Description #5",
+  "attributes": [{ "trait_type": "Background", "value": "earth" }],
+  "creators": [],
+  "collection": { "name": "Collection Name", "family": "Unique Family Name" },
+  "symbol": "NFT",
+  "seller_fee_basis_points": 0,
+  "image": "__CID__",
+  "compiler": "Genfty.com"
+}

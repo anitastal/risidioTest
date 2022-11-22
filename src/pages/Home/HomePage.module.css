@@ -1,0 +1,117 @@
+
+.title {
+    margin: 0;
+    padding: 0;
+    padding-top: 26px;
+    text-align: center;
+    font-family: Montserrat;
+    font-weight: 300;
+    font-size: 50px;
+    min-width: 898px;
+    min-height: 93px;
+    color: black;
+    /* color: #F9F9F9; */
+    text-transform: capitalize;
+    margin-bottom: 263px;
+}
+
+.titleText{
+    margin: 0;
+        padding: 0;
+        padding-top: 26px;
+        text-align: center;
+        font-family: Montserrat;
+        font-weight: 300;
+        font-size: 30px;
+        min-width: 647px;
+        min-height: 53px;
+        color: black;
+        /* color: #F9F9F9; */
+        text-transform: capitalize;
+        margin-bottom: 8px;
+}
+
+.text {
+    margin: auto;
+    padding: 0;
+    width: 576px;
+    min-height: 78px;
+    text-align: center;
+    font-family: Montserrat;
+    font-weight: normal;
+    font-size: 14px;
+    color: black;
+    margin-bottom: 41px;
+
+}
+
+.linkList{
+        display: flex;
+         align-items: center;
+            
+        justify-content: center;
+        gap: 20px;
+}
+.link {
+    
+
+    text-decoration: none;
+    border: 1px solid transparent;
+    border-radius: 22px;
+    background-color: #50B1B5;
+    text-align: center;
+    /* margin: auto; */
+    /* margin-bottom: 28px; */
+    padding: 14px 41px;
+    color: #fff;
+    font-family: Montserrat;
+    font-weight: 600;
+    font-size: 14px;
+    width: 141px;
+    /* gap: 10px; */
+}
+
+.wrap {
+    text-align: center;
+    display: block;
+}
+
+.wrapHidden {
+    display: none;
+    text-align: center;
+}
+
+.list {
+    list-style: none;
+    display: flex;
+    gap: 30px;
+    padding: 0;
+    text-align: center;
+    margin: auto;
+    margin-top: 11px;
+    margin-bottom: 72px;
+    border: 1px solid red;
+    width: 611px;
+    align-items: center;
+    justify-content: space-evenly;
+    background-color: #F9F9F9;
+    border-radius: 25px;
+}
+
+
+.listItem {
+    margin-top: 18px;
+    font-family: Montserrat;
+    font-weight: normal;
+    font-size: 16px;
+}
+
+
+.listText {
+    margin: 0;
+    margin-top: 19px;
+    margin-bottom: 18px;
+    font-family: Montserrat;
+    font-weight: 600;
+    font-size: 16px;
+}

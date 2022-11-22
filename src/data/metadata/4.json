@@ -1,0 +1,11 @@
+{
+  "name": "NFT Asset Name #4",
+  "description": "NFT Asset Detailed Description #4",
+  "attributes": [{ "trait_type": "Background", "value": "flush" }],
+  "creators": [],
+  "collection": { "name": "Collection Name", "family": "Unique Family Name" },
+  "symbol": "NFT",
+  "seller_fee_basis_points": 0,
+  "image": "__CID__",
+  "compiler": "Genfty.com"
+}

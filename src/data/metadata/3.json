@@ -1,0 +1,11 @@
+{
+  "name": "NFT Asset Name #3",
+  "description": "NFT Asset Detailed Description #3",
+  "attributes": [{ "trait_type": "Background", "value": "cosmos" }],
+  "creators": [],
+  "collection": { "name": "Collection Name", "family": "Unique Family Name" },
+  "symbol": "NFT",
+  "seller_fee_basis_points": 0,
+  "image": "__CID__",
+  "compiler": "Genfty.com"
+}

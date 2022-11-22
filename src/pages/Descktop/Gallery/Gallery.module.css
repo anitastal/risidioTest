@@ -1,0 +1,73 @@
+.gallery{
+      
+    margin: auto;
+    text-align: center;
+}
+.btn {
+    border: 1px solid red;
+
+    background-color: transparent;
+    text-align: center;
+    margin: auto;
+    color: #50B1B5;
+    font-family: Montserrat;
+    font-weight: normal;
+    font-size: 14px;
+    width: 98px;
+    padding-bottom: 14px;
+}
+.list{
+    list-style: none;
+}
+.title{
+    font-family: Montserrat;
+    font-weight: normal;
+    font-size: 30px;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    min-height: 53px;
+    min-width: 647px;
+    margin-bottom: 36px;
+}
+.btnGalleryWrap{
+    margin: auto;
+    text-align: center;
+    margin-bottom: 165px;
+}
+.btnGallery{
+    width: 141px;
+    height: 43px;
+    border-radius: 22px;
+    font-family: "Montserrat";
+    font-weight: bold;
+    font-size: 12px;
+    color: #5FBDC1;
+    background-color: rgba(0, 0, 0, 0.1);
+    border: 1px solid transparent;
+    /* opacity: 0.1; */
+}
+.btnGallery:not(:last-child){
+    margin-right: 20px;
+}
+.btnGallery:hover,
+.btnGallery:focus{
+    color: #fff;
+    background-color: #5FBDC1;
+}
+.btnGalleryItem {
+    width: 98px;
+    height: 43px;
+    /* border-radius: 22px; */
+    font-family: "Montserrat";
+    font-weight: bold;
+    font-size: 12px;
+    color: black;
+    background-color: #fff;
+    border: 1px solid transparent;
+   
+}
+.btnGalleryItem:hover{
+    border-bottom: 1px solid #5FBDC1;
+    color: #5FBDC1;
+}
