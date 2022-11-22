@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/risidio-test/static/css/main.8dae791b.css",
+    "main.js": "/risidio-test/static/js/main.d8fbb844.js",
+    "static/media/cosmos.jpeg": "/risidio-test/static/media/cosmos.77e266f49c3f8bfa0b71.jpeg",
+    "static/media/girl-comp@2x.png": "/risidio-test/static/media/girl-comp@2x.2c0b016181f6e048c9eb.png",
+    "static/media/gradienta-m_7p45JfXQo-unsplash.jpg": "/risidio-test/static/media/gradienta-m_7p45JfXQo-unsplash.1aa10cb52012713a24f1.jpg",
+    "static/media/girl-comp.png": "/risidio-test/static/media/girl-comp.40aa1a10d5ae2eb394a2.png",
+    "index.html": "/risidio-test/index.html",
+    "static/media/Rectangle 25.svg": "/risidio-test/static/media/Rectangle 25.c6a984a2044da1a5c686.svg",
+    "main.8dae791b.css.map": "/risidio-test/static/css/main.8dae791b.css.map",
+    "main.d8fbb844.js.map": "/risidio-test/static/js/main.d8fbb844.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8dae791b.css",
+    "static/js/main.d8fbb844.js"
+  ]
+}
