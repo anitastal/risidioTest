@@ -10,7 +10,7 @@
     min-width: 898px;
     min-height: 93px;
     color: black;
-    /* color: #F9F9F9; */
+   
     text-transform: capitalize;
     margin-bottom: 263px;
 }
@@ -26,7 +26,7 @@
         min-width: 647px;
         min-height: 53px;
         color: black;
-        /* color: #F9F9F9; */
+       
         text-transform: capitalize;
         margin-bottom: 8px;
 }
@@ -60,15 +60,14 @@
     border-radius: 22px;
     background-color: #50B1B5;
     text-align: center;
-    /* margin: auto; */
-    /* margin-bottom: 28px; */
+    
     padding: 14px 41px;
     color: #fff;
     font-family: Montserrat;
     font-weight: 600;
     font-size: 14px;
     width: 141px;
-    /* gap: 10px; */
+    
 }
 
 .wrap {

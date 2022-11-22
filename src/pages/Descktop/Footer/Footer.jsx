@@ -5,7 +5,7 @@ import logo2 from '../../../assets/img/logoFooter/logoFooter@2x.png';
 
 export default function Footer() {
   return (
-    // <div className={css.wrap}>
+    
     <div className={css.conteiner}>
       <div className={css.about}>
         <picture className={css.img}>
@@ -40,6 +40,6 @@ export default function Footer() {
         </ul>
       </div>
     </div>
-    // </div>
+    
   );
 }
